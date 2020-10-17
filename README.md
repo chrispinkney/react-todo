@@ -1,3 +1,8 @@
+
+A very basic todo list that I wrote in a day to learn more about react.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
